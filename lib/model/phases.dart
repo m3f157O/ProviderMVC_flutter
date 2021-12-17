@@ -1,0 +1,6 @@
+
+enum PHASE {
+  startingUserMenu,
+  viewMenu,
+}
+
