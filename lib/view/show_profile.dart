@@ -84,7 +84,7 @@ class _ShowProfileState extends State<ShowProfile> {
                                     horizontal: 16.0,
                                   ),
                                   child: Text(
-                                    entries.toString()+" kcal",
+                                    entries.toString()+" tuples",
                                     style: TextStyle(fontSize: 24, fontWeight: FontWeight.w900, color: second),
                                   ),
                                 ),
@@ -104,7 +104,7 @@ class _ShowProfileState extends State<ShowProfile> {
                                     horizontal: 16.0,
                                   ),
                                   child: Text(
-                                    words.toString()+" kilometers",
+                                    words.toString()+" words",
                                     style: TextStyle(fontSize: 24, fontWeight: FontWeight.w900, color: second),
                                   ),
                                 ),
@@ -124,7 +124,7 @@ class _ShowProfileState extends State<ShowProfile> {
                                     horizontal: 16.0,
                                   ),
                                   child: Text(
-                                    chars.toString()+ " minutes",
+                                    chars.toString()+ " characters",
                                     style: TextStyle(fontSize: 24, fontWeight: FontWeight.w900, color: second),
                                   ),
                                 ),
